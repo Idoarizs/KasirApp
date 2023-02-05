@@ -1,4 +1,5 @@
 import './App.css';
+import swal from 'sweetalert';
 import NavigationBar from './components/NavigationBar';
 
 function App() {
