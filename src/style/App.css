@@ -1,3 +1,7 @@
-.Body {
+.App {
     font-family: 'Public Sans', sans-serif;
+}
+
+.Tabel {
+    margin-top: 25px;
 }
